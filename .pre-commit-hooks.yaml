@@ -1,6 +1,6 @@
 -   id: go-fmt-jira-commit-msg
     name: 'go main/main'
     entry: go run main/maiff
-    language: 'golang'
+    language: golang
     description: "requires golang"
     stages: [prepare-commit-msg]
