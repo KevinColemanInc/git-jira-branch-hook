@@ -1,0 +1,6 @@
+-   id: go-fmt-jira-commit-msg
+    name: 'go main/main'
+    entry: run-go.sh
+    language: 'script'
+    description: "requires golang"
+    stages: [prepare-commit-msg]
